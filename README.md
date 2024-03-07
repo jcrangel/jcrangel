@@ -1,4 +1,5 @@
-### ¿Qué tranza? 
+### Hey, qué tranza
+ 
 
 As a researcher in Artificial Intelligence, I focus on Natural Language Processing (NLP) and Data Science. My work involves using Large Language Models (LLMs) for converting natural language into structured query languages to enhance specialized knowledge domain question-and-answer systems.
 
